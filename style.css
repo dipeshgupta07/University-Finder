@@ -1,0 +1,51 @@
+.head{
+    background-color: #1f1f1f;
+    height: 70px;
+    display: flex;
+    margin: 0px;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
+
+.in{
+    height: 40px;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+input{
+    height: 100%;
+    width: 70%;
+    font-size: large;
+}
+button{
+    width: 20%;
+    height: 100%;
+    background-color: #1f1f1f;
+    color: aliceblue;
+    margin-top: 20px;
+    align-items: center;
+    font-size: large;
+    font-weight: 700;
+
+}
+.hui{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    background-color: #1e1e1e;
+    box-shadow: 0px 4px 8px peachpuff;
+}
+.list{
+    margin-top: 50px;
+    padding: 0;
+
+}
+body{
+    background-color: black;
+}
+#list{
+    padding-left: 0px;
+}
